@@ -1,0 +1,15 @@
+iMac-129:TD-1 nan$ git diff 7dae7654d3c00e8c313f6dc24510776105920eba
+diff --git a/Menu.txt b/Menu.txt
+index e0f4c25..0747156 100644
+--- a/Menu.txt
++++ b/Menu.txt
+@@ -1,4 +1,5 @@
+-● Steak tartare
+-● Salade norvégienne
+-● Filet de dorade
+-● Bar à la citronnelle
++ Salade norvégienne
++ Filet de dorade
++Steak tartare
++Salade norvegirnne
++modification
