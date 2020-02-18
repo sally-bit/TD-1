@@ -1,0 +1,13 @@
+iMac-129:TD-1 nan$ git log
+commit 0fc0a749c31e5d3a9327c8baf93f8bbbafcce2ca (HEAD -> master, origin/master)
+Author: sally-bit <salimatabmb@gmail.com>
+Date:   Tue Feb 18 11:04:31 2020 +0000
+
+    modification du fichier
+
+commit 7dae7654d3c00e8c313f6dc24510776105920eba
+Author: sally-bit <salimatabmb@gmail.com>
+Date:   Tue Feb 18 11:01:43 2020 +0000
+
+    enregistrement du fichier menu.txt
+
